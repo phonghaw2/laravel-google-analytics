@@ -123,13 +123,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-## Credits
-
-- [h](https://github.com/phonghaw2)
-- [All Contributors](../../contributors)
-
-And a special thanks to [Caneco](https://twitter.com/caneco) for the logo ✨
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
